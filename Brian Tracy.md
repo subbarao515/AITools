@@ -1,4 +1,4 @@
-The 7 C's to Success with Brian Tracy
+###  The 7 C's to Success with Brian Tracy
 * Link -https://www.youtube.com/watch?v=FfohcP_zBkQ
   
 1.Clarity
@@ -15,8 +15,7 @@ The 7 C's to Success with Brian Tracy
 
 7.Courage
 
-
-3 steps Contionus learnings to success in your feild 
+### 3 Steps of Contionus learnings to success
 
 1.Read books in your field each day 1 hr
 
